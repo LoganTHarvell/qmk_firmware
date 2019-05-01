@@ -11,3 +11,6 @@
 [submodule "lib/googletest"]
 	path = lib/googletest
 	url = https://github.com/google/googletest
+[submodule "lib/mdloader"]
+	path = lib/mdloader
+	url = https://github.com/Massdrop/mdloader
